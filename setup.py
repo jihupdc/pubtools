@@ -57,7 +57,7 @@ setup(
     extras_require={
         "tracing": ["opentelemetry-api", "opentelemetry-sdk"],
     },
-    python_requires=">=3.6",
+    python_requires=">=3.12",
     project_urls={
         "Documentation": "https://release-engineering.github.io/pubtools/",
         "Changelog": "https://github.com/release-engineering/pubtools/blob/master/CHANGELOG.md",

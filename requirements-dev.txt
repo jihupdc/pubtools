@@ -91,3 +91,8 @@ virtualenv==20.30.0 \
     --hash=sha256:800863162bcaa5450a6e4d721049730e7f2dae07720e0902b0e4040bd6f9ada8 \
     --hash=sha256:e34302959180fca3af42d1800df014b35019490b119eba981af27f2fa486e5d6
     # via pre-commit
+setuptools==80.0.0 \
+    --hash=sha256:a38f898dcd6e5380f4da4381a87ec90bd0a7eec23d204a5552e80ee3cab6bd27 \
+    --hash=sha256:c40a5b3729d58dd749c0f08f1a07d134fb8a0a3d7f87dc33e7c5e1f762138650
+    # via
+    #   -r requirements.in
